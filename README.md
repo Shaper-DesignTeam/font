@@ -5,3 +5,7 @@
 
 Noto Sans KR <br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKr.css');
+
+
+Pretenard <br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');
