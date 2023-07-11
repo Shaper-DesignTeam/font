@@ -9,3 +9,6 @@
 
 <b>Pretenard</b> <br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');
+
+<b>S-Core Dream</b> <br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');
