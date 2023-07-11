@@ -6,19 +6,19 @@
 <b>Noto Sans KR</b><br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKr.css');
 
-body { font-family: 'Noto Sans KR', sans-serif; }
+body { font-family: 'Noto Sans KR', sans-serif; }<br>
 .notosanskr { font-family: 'Noto Sans KR', sans-serif; }
 
 
 <b>Pretenard</b> <br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');
 
-body { font-family: 'Pretendard', sans-serif; }
+body { font-family: 'Pretendard', sans-serif; }<br>
 .pretendard { font-family: 'Pretendard', sans-serif; }
 
 
 <b>S-Core Dream</b> <br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');
 
-body { font-family: 'S-Core Dream', sans-serif; }
+body { font-family: 'S-Core Dream', sans-serif; }<br>
 .scoredream { font-family: 'S-Core Dream', sans-serif; }
