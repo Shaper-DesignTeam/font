@@ -37,4 +37,8 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.woff2') format('woff2');
 }
+
+body { font-family: 'Noto Sans KR', sans-serif; }
+.notosanskr { font-family: 'Noto Sans KR', sans-serif; }
+
 /* Noto sans KR e */

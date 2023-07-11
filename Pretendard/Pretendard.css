@@ -83,4 +83,8 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Black.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Black.woff2') format('woff2'),
 }
+
+body { font-family: 'Pretendard', sans-serif; }
+.pretendard { font-family: 'Pretendard', sans-serif; }
+
 /* Pretendard e */
