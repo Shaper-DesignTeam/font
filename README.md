@@ -10,14 +10,14 @@ body { font-family: 'Noto Sans KR', sans-serif; }<br>
 .notosanskr { font-family: 'Noto Sans KR', sans-serif; }
 
 
-<b>Pretenard</b> <br>
+<h3><b>Pretenard</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');
 
 body { font-family: 'Pretendard', sans-serif; }<br>
 .pretendard { font-family: 'Pretendard', sans-serif; }
 
 
-<b>S-Core Dream</b> <br>
+<h3><b>S-Core Dream</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');
 
 body { font-family: 'S-Core Dream', sans-serif; }<br>
