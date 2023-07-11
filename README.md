@@ -4,21 +4,21 @@
 필요한 폰트를 찾아 아래의 import 코드를 css에 붙여넣기 하여 사용할 수 있습니다.
 
 <h4><b>Noto Sans KR</b></h4>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKr.css');<br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKr.css');<br><br>
 
 body { font-family: 'Noto Sans KR', sans-serif; }<br>
 .notosanskr { font-family: 'Noto Sans KR', sans-serif; }
 
 
 <h4><b>Pretenard</b></h4>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');<br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');<br><br>
 
 body { font-family: 'Pretendard', sans-serif; }<br>
 .pretendard { font-family: 'Pretendard', sans-serif; }
 
 
 <h4><b>S-Core Dream</b></h4>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');<br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');<br><br>
 
 body { font-family: 'S-Core Dream', sans-serif; }<br>
 .scoredream { font-family: 'S-Core Dream', sans-serif; }
