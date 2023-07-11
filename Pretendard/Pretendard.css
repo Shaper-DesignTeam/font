@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+
+/* Pretendard s */
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 100;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Thin.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Thin.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Thin.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraLight.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraLight.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraLight.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Light.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Light.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Light.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Regular.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Regular.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Regular.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Medium.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Medium.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Medium.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-SemiBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-SemiBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-SemiBold.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Bold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Bold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Bold.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-ExtraBold.woff2') format('woff2'),
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 900;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Black.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Black.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard-Black.woff2') format('woff2'),
+}
+/* Pretendard e */
