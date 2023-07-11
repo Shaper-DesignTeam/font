@@ -7,18 +7,18 @@
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKr.css');<br><br>
 
 body { font-family: 'Noto Sans KR', sans-serif; }<br>
-.notosanskr { font-family: 'Noto Sans KR', sans-serif; }
+.notosanskr { font-family: 'Noto Sans KR', sans-serif; }<br><br>
 
 
 <h4><b>Pretenard</b></h4>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Pretendard/Pretendard.css');<br><br>
 
 body { font-family: 'Pretendard', sans-serif; }<br>
-.pretendard { font-family: 'Pretendard', sans-serif; }
+.pretendard { font-family: 'Pretendard', sans-serif; }<br><br>
 
 
 <h4><b>S-Core Dream</b></h4>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCoreDream.css');<br><br>
 
 body { font-family: 'S-Core Dream', sans-serif; }<br>
-.scoredream { font-family: 'S-Core Dream', sans-serif; }
+.scoredream { font-family: 'S-Core Dream', sans-serif; }<br><br>
