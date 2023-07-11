@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+/* S-Core Dream s */
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 100;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream1.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream1.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream1.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream1.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream2.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream2.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream2.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream2.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream3.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream3.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream3.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream3.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream4.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream4.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream4.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream4.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream5.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream5.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream5.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream5.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream6.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream6.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream6.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream6.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream7.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream7.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream7.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream7.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream8.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream8.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream8.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream8.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'S-Core Dream';
+    font-style: normal;
+    font-weight: 900;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream9.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream9.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream9.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/ScoreDream/SCDream9.ttf') format("truetype");
+}
+
+body { font-family: 'S-Core Dream', sans-serif; }
+.scoredream { font-family: 'S-Core Dream', sans-serif; }
+
+/* S-Core Dream e */
