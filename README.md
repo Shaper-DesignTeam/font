@@ -22,3 +22,17 @@ body { font-family: 'Pretendard', sans-serif; }<br>
 
 body { font-family: 'S-Core Dream', sans-serif; }<br>
 .scoredream { font-family: 'S-Core Dream', sans-serif; }<br><br>
+
+
+<h3><b>Montserrat</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat.css');<br><br>
+
+body { font-family: 'Montserrat', sans-serif; }<br>
+.scoredream { font-family: 'Montserrat', sans-serif; }<br><br>
+
+
+<h3><b>Roboto</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Roboto/Roboto.css');<br><br>
+
+body { font-family: 'Roboto', sans-serif; }<br>
+.scoredream { font-family: 'Roboto', sans-serif; }<br><br>
