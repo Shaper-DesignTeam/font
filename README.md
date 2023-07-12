@@ -28,40 +28,40 @@ body { font-family: 'S-Core Dream', sans-serif; }<br>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat.css');<br><br>
 
 body { font-family: 'Montserrat', sans-serif; }<br>
-.scoredream { font-family: 'Montserrat', sans-serif; }<br><br>
+.montserrat { font-family: 'Montserrat', sans-serif; }<br><br>
 
 
 <h3><b>Roboto</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Roboto/Roboto.css');<br><br>
 
 body { font-family: 'Roboto', sans-serif; }<br>
-.scoredream { font-family: 'Roboto', sans-serif; }<br><br>
+.roboto { font-family: 'Roboto', sans-serif; }<br><br>
 
 
 <h3><b>GmarketSans</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans.css');<br><br>
 
 body { font-family: 'GmarketSans', sans-serif; }<br>
-.scoredream { font-family: 'GmarketSans', sans-serif; }<br><br>
+.gmarketsans { font-family: 'GmarketSans', sans-serif; }<br><br>
 
 
 <h3><b>NanumSquare</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NanumSquare/NanumSquare.css');<br><br>
 
 body { font-family: 'NanumSquare', sans-serif; }<br>
-.scoredream { font-family: 'NanumSquare', sans-serif; }<br><br>
+.nanumsquare { font-family: 'NanumSquare', sans-serif; }<br><br>
 
 
 <h3><b>SUIT</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUIT/SUIT.css');<br><br>
 
 body { font-family: 'SUIT', sans-serif; }<br>
-.scoredream { font-family: 'SUIT', sans-serif; }<br><br>
+.suit { font-family: 'SUIT', sans-serif; }<br><br>
 
 
 <h3><b>SUITE</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE.css');<br><br>
 
 body { font-family: 'SUITE', sans-serif; }<br>
-.scoredream { font-family: 'SUITE', sans-serif; }<br><br>
+.suite { font-family: 'SUITE', sans-serif; }<br><br>
 
