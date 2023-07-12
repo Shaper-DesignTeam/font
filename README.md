@@ -64,3 +64,17 @@ body { font-family: 'Montserrat', sans-serif; }<br>
 
 body { font-family: 'Roboto', sans-serif; }<br>
 .roboto { font-family: 'Roboto', sans-serif; }<br><br>
+
+
+<h3><b>Poppins</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Poppins/Poppins.css');<br><br>
+
+body { font-family: 'Poppins', sans-serif; }<br>
+.poppins { font-family: 'Poppins', sans-serif; }<br><br>
+
+
+<h3><b>Playfair Display</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/PlayfairDisplay/PlayfairDisplay.css');<br><br>
+
+body { font-family: 'PlayfairDisplay', sans-serif; }<br>
+.playfairdisplay { font-family: 'PlayfairDisplay', sans-serif; }<br><br>
