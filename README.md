@@ -36,3 +36,32 @@ body { font-family: 'Montserrat', sans-serif; }<br>
 
 body { font-family: 'Roboto', sans-serif; }<br>
 .scoredream { font-family: 'Roboto', sans-serif; }<br><br>
+
+
+<h3><b>GmarketSans</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans.css');<br><br>
+
+body { font-family: 'GmarketSans', sans-serif; }<br>
+.scoredream { font-family: 'GmarketSans', sans-serif; }<br><br>
+
+
+<h3><b>NanumSquare</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NanumSquare/NanumSquare.css');<br><br>
+
+body { font-family: 'NanumSquare', sans-serif; }<br>
+.scoredream { font-family: 'NanumSquare', sans-serif; }<br><br>
+
+
+<h3><b>SUIT</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUIT/SUIT.css');<br><br>
+
+body { font-family: 'SUIT', sans-serif; }<br>
+.scoredream { font-family: 'SUIT', sans-serif; }<br><br>
+
+
+<h3><b>SUITE</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE.css');<br><br>
+
+body { font-family: 'SUITE', sans-serif; }<br>
+.scoredream { font-family: 'SUITE', sans-serif; }<br><br>
+
