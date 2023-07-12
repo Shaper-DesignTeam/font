@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+/* SUITE s */
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Light.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Light.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Light.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Regular.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Regular.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Regular.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Medium.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Medium.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Medium.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 600;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-SemiBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-SemiBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-SemiBold.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Bold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Bold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Bold.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-ExtraBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-ExtraBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-ExtraBold.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'SUITE';
+    font-style: normal;
+    font-weight: 900;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Heavy.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Heavy.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Heavy.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/SUITE/SUITE-Heavy.ttf') format("truetype");
+}
+
+/* SUITE e */

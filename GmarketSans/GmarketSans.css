@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+/* GmarketSans s */
+@font-face {
+    font-family: 'GmarketSans';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Light.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Light.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Light.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'GmarketSans';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Medium.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Medium.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Medium.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'GmarketSans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Bold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Bold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/GmarketSans/GmarketSans-Bold.ttf') format("truetype");
+}
+
+/* GmarketSans e */
