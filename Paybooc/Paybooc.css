@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/* Paybooc s */
+@font-face {
+    font-family: 'Paybooc';
+    font-style: normal;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Light.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Light.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Light.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'Paybooc';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Medium.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Medium.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Medium.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'Paybooc';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Bold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Bold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-Bold.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'Paybooc';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-ExtraBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-ExtraBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc-ExtraBold.ttf') format("truetype");
+}
+
+/* Paybooc e */
