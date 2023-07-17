@@ -52,6 +52,13 @@ body { font-family: 'SUITE', sans-serif; }<br>
 .suite { font-family: 'SUITE', sans-serif; }<br><br>
 
 
+<h3><b>Paybooc</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Paybooc/Paybooc.css');<br><br>
+
+body { font-family: 'Paybooc', sans-serif; }<br>
+.paybooc { font-family: 'Paybooc', sans-serif; }<br><br>
+
+
 <h3><b>Montserrat</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat.css');<br><br>
 
