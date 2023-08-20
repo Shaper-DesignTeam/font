@@ -108,22 +108,23 @@
     font-family: 'Montserrat';
     font-style: italic;
     font-weight: 200;
-    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.eot') format('eot');
-    src: 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.woff') format('woff'), 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.ttf') format("truetype");
-}
-@font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 300;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-ExtraLightItalic.eot') format('eot');
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-ExtraLightItalic.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-ExtraLightItalic.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-ExtraLightItalic.ttf') format("truetype");
 }
+@font-face {
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 300;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat-LightItalic.ttf') format("truetype");
+}
+
 @font-face {
     font-family: 'Montserrat';
     font-style: italic;
