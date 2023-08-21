@@ -5,37 +5,91 @@
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 100;
-    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.eot') format('eot');
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Thin.eot') format('eot');
     src: 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.woff') format('woff'), 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Thin.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraLight.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraLight.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraLight.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 300;
-    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.eot') format('eot');
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.eot') format('eot');
     src: 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.woff') format('woff'), 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Medium.eot') format('eot');
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Medium.woff') format('woff'), 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Medium.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Medium.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans KR';
     font-style: normal;
     font-weight: 600;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-SemiBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-SemiBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.eot') format('eot');
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.woff') format('woff'), 
-        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.woff2') format('woff2');
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 800;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraBold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraBold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Black.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Black.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSansKR/NotoSansKR-Black.ttf') format('truetype');
 }
 
 /* Noto sans KR e */
