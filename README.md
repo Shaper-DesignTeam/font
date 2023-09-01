@@ -58,11 +58,20 @@ body { font-family: 'SUITE', sans-serif; }<br>
 body { font-family: 'Paybooc', sans-serif; }<br>
 .paybooc { font-family: 'Paybooc', sans-serif; }<br><br>
 
+
 <h3><b>Noto Serif KR</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSerifKR/NotoSerifKr.css');<br><br>
 
 body { font-family: 'Noto Serif KR', serif; }<br>
 .notoserifkr { font-family: 'Noto Serif KR', serif; }<br><br>
+
+
+<h3><b>The Jamsil</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Thejamsil/Thejamsil.css');<br><br>
+
+body { font-family: 'Thejamsil', sans-serif; }<br>
+.thejamsil { font-family: 'Thejamsil', sans-serif; }<br><br>
+
 
 <h3><b>Montserrat</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Montserrat/Montserrat.css');<br><br>
