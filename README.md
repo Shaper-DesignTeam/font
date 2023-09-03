@@ -67,7 +67,7 @@ body { font-family: 'Noto Serif KR', serif; }<br>
 
 
 <h3><b>The Jamsil</b></h3>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Thejamsil/Thejamsil.css');<br><br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil.css');<br><br>
 
 body { font-family: 'Thejamsil', sans-serif; }<br>
 .thejamsil { font-family: 'Thejamsil', sans-serif; }<br><br>
