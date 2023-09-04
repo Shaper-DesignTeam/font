@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+/* Philosopher s */
+@font-face {
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Regular.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Regular.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Bold.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Bold.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Philosopher';
+    font-style: italic;
+    font-weight: 400;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-RegularItalic.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-RegularItalic.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-RegularItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-RegularItalic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Philosopher';
+    font-style: italic;
+    font-weight: 700;
+    src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-BoldItalic.eot') format('eot');
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-BoldItalic.woff') format('woff'), 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher-BoldItalic.ttf') format('truetype');
+}
+
+/* Philosopher e */
