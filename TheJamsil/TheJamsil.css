@@ -1,9 +1,9 @@
 @charset "utf-8";
 
 
-/* TheJamsil s */
+/* The Jamsil s */
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 100;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Thin.eot') format('eot');
@@ -12,7 +12,7 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Thin.woff2') format('woff2'),
 }
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 300;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Light.eot') format('eot');
@@ -21,7 +21,7 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Light.woff2') format('woff2'),
 }
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 400;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Regular.eot') format('eot');
@@ -30,7 +30,7 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Regular.woff2') format('woff2'),
 }
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 500;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Medium.eot') format('eot');
@@ -39,7 +39,7 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Medium.woff2') format('woff2'),
 }
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 700;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Bold.eot') format('eot');
@@ -48,7 +48,7 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Bold.woff2') format('woff2'),
 }
 @font-face {
-    font-family: 'TheJamsil';
+    font-family: 'The Jamsil';
     font-style: normal;
     font-weight: 800;
     src: url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-ExtraBold.eot') format('eot');
@@ -57,4 +57,4 @@
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-ExtraBold.woff2') format('woff2'),
 }
 
-/* TheJamsil e */
+/* The Jamsil e */
