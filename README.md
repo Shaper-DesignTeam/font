@@ -97,5 +97,27 @@ body { font-family: 'Poppins', sans-serif; }<br>
 <h3><b>Playfair Display</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/PlayfairDisplay/PlayfairDisplay.css');<br><br>
 
-body { font-family: 'PlayfairDisplay', sans-serif; }<br>
-.playfairdisplay { font-family: 'PlayfairDisplay', sans-serif; }<br><br>
+body { font-family: 'PlayfairDisplay', serif; }<br>
+.playfairdisplay { font-family: 'PlayfairDisplay', serif; }<br><br>
+
+
+<h3><b>Libre Bodoni</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/LibreBodoni/LibreBodoni.css');<br><br>
+
+body { font-family: 'Libre Bodoni', serif; }<br>
+.librebodoni { font-family: 'Libre Bodoni', serif; }<br><br>
+
+
+<h3><b>Philosopher</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Philosopher/Philosopher.css');<br><br>
+
+body { font-family: 'Philosopher', sans-serif; }<br>
+.philosopher { font-family: 'Philosopher', sans-serif; }<br><br>
+
+
+<h3><b>Rajdhani</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/Rajdhani/Rajdhani.css');<br><br>
+
+body { font-family: 'Rajdhani', sans-serif; }<br>
+.rajdhani { font-family: 'Rajdhani', sans-serif; }<br><br>
+
