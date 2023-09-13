@@ -10,6 +10,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Thin.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Thin.ttf') format('truetype');
 }
 @font-face {
     font-family: 'The Jamsil';
@@ -19,6 +20,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Light.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'The Jamsil';
@@ -28,6 +30,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Regular.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'The Jamsil';
@@ -37,6 +40,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Medium.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Medium.ttf') format('truetype');
 }
 @font-face {
     font-family: 'The Jamsil';
@@ -46,6 +50,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Bold.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-Bold.ttf') format('truetype');
 }
 @font-face {
     font-family: 'The Jamsil';
@@ -55,6 +60,7 @@
     src: 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-ExtraBold.woff') format('woff'), 
         url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil-ExtraBold.ttf') format('truetype');
 }
 
 /* The Jamsil e */
