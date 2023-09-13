@@ -60,7 +60,7 @@ body { font-family: 'Paybooc', sans-serif; }<br>
 
 
 <h3><b>Noto Serif KR</b></h3>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSerifKR/NotoSerifKr.css');<br><br>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSerifKR/NotoSerifKR.css');<br><br>
 
 body { font-family: 'Noto Serif KR', serif; }<br>
 .notoserifkr { font-family: 'Noto Serif KR', serif; }<br><br>
