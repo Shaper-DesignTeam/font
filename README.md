@@ -59,18 +59,17 @@ body { font-family: 'Paybooc', sans-serif; }<br>
 .paybooc { font-family: 'Paybooc', sans-serif; }<br><br>
 
 
-<h3><b>Noto Serif KR</b></h3>
-@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/NotoSerifKR/NotoSerifKR.css');<br><br>
-
-body { font-family: 'Noto Serif KR', serif; }<br>
-.notoserifkr { font-family: 'Noto Serif KR', serif; }<br><br>
-
-
 <h3><b>The Jamsil</b></h3>
 @import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/TheJamsil/TheJamsil.css');<br><br>
 
 body { font-family: 'The Jamsil', sans-serif; }<br>
 .thejamsil { font-family: 'The Jamsil', sans-serif; }<br><br>
+
+<h3><b>Min Sans</b></h3>
+@import url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans.css');<br><br>
+
+body { font-family: 'Min Sans', sans-serif; }<br>
+.thejamsil { font-family: 'Min Sans', sans-serif; }<br><br>
 
 
 <h3><b>Montserrat</b></h3>
