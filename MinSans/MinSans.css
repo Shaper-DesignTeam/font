@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+/* MinSans s */
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 200;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-MinSans-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-MinSans-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-MinSans-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 200;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-SemiBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Min Sans';
+    font-style: normal;
+    font-weight: 900;
+    src: 
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Black.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/Shaper-DesignTeam/font/MinSans/MinSans-Black.ttf') format('truetype');
+}
+
+/* MinSans e */
